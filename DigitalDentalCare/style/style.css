@@ -1,0 +1,169 @@
+/*all font family*/
+*
+{
+   font-family:cursive; 
+}
+
+/* Change Navigation Color */
+.navbar #myMenu .custom-nav .nav-item a {
+  color:#00b0ef;
+
+}
+
+.navbar #myMenu .custom-nav .nav-item a:hover{
+  color: red;
+}
+/*navbar background color*/
+.navbar 
+{
+    background-color: rgba(57,75,96,.7);
+}
+
+
+/* Make Header Image Responsive */
+
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height:700px;
+  border-radius: 0px;
+  margin-top:0px;
+}
+
+/* Change Footer Social Icon Color */
+a 
+{
+  color:  #00b0f0;
+}
+
+a:hover 
+{
+  color: red;
+}
+              /*service font color*/
+div a img:hover
+{
+    
+    transform: scale(2);
+    transition: all ease 2s;
+    
+}
+
+div i:hover
+{
+  transform: scale(2);
+    transition: all ease 2s;   
+}
+
+
+
+
+/* start appointment form*/
+.appointment-form 
+{
+   
+  position: relative;
+  z-index: 1;
+
+}
+  .appointment-form .form-control 
+{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0,0,0,.4);
+    border-radius: 2px;
+    border: none;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 0 30px;
+    font-style: italic;
+}
+
+    .appointment-form .form-control:focus 
+{
+      box-shadow: none; 
+}
+
+ .num 
+    {
+    appearance: none;
+   -moz-appearance: none;
+}
+
+
+
+  .appointment-form select 
+    {
+    appearance: none;
+   -moz-appearance: none;
+}
+     
+    .appointment-form select option 
+{
+      width: 100%;
+      height: 40px;
+      background-color: rgba(0, 0, 0, 0.3);
+      color: #333333; 
+}
+
+  .appointment-form textarea.form-control 
+{
+    padding: 30px;
+    height: 15.0px; 
+}
+
+
+
+.form-input button {
+	width: 40%;
+	margin: 5px 0 25px;
+}
+.btn-success {
+	background-color: #1c6288;
+	font-size: 19px;
+	border-radius: 5px;
+	padding: 7px 14px;
+	border: 1px solid #daf1ff;
+}
+.btn-success:hover {
+	background-color: #13445e;
+	border: 1px solid #daf1ff;
+}
+.forgot {
+	padding: 5px 0 25px;
+}
+.forgot a {
+	color: #daf1ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

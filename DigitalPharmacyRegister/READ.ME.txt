@@ -1,0 +1,22 @@
+Digital Pharmacy Register
+
+-----------------------------------------------------------------------------
+
+Admin:
+	1.See Dashboard
+	2.See all Drugs, Add Drugs, Edit Drugs, Delete Drugs
+	3.See all Customers, Add Customers, Edit Customers, Delete Customers
+	4.Modify Profile
+	5.Change Password
+
+
+
+
+
+Login as Admin:
+	Email: medipharm@gmail.com
+	Password : medipharm
+	Role: Admin
+
+
+
